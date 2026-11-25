@@ -1,0 +1,1 @@
+- Keep reusable provider discovery rules in `src/lib/providerFilters.ts` so the Services screen and focused tests share identical filtering behavior.
